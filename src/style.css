@@ -1,0 +1,21 @@
+* {
+  font: 12px Arial;
+}
+
+hr {
+  background: #ccc;
+  border: none;
+  height: 1px;
+}
+
+input {
+  color: #000;
+  font-weight: bold;
+  width: 75px;
+}
+
+input::-webkit-input-placeholder {
+  color: #aaa;
+  font-weight: normal;
+  font-style: italic;
+}
